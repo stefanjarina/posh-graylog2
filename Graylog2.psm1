@@ -92,10 +92,6 @@ function _Rest_Api_Call {
     return $result
 }
 
-function _Not_Implemented_Yet_ {
-    Write-Output "Not Implemented Yet..."
-}
-
 ##########################################################################
 # CONNECTION FUNCTIONS - Functions used for Login/Token Generation
 ##########################################################################
